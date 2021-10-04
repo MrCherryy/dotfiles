@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marcorenatocerri@gmail.com
+	name = Marco Cerri
